@@ -1,0 +1,3 @@
+﻿这是一个基于ssx的留言板，使用SpringMVC,spring，xml文件做数据库的留言板（小论坛），开发软件是myeclipse，在线访问http://a3r.top/java603_ssx03/jsps/user_login.jsp
+
+这个网站本来是我为了完成xml主页写的，用ssm的框架改成数据库使用xml存储。
