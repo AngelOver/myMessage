@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE messages [
+  <!ELEMENT messages (message*)>
+  <!ELEMENT message (content,createTime)>
+  <!ATTLIST message
+   id CDATA #REQUIRED  
+   u_id CDATA #REQUIRED
+   t_id CDATA #REQUIRED>  
+  <!ELEMENT content   (#PCDATA)>
+  <!ELEMENT createTime   (#PCDATA)> 
+]>
+<messages> 
+  <message id="8a82bd2f-fa2f-4dfb-a7d6-39731cc6bf49" u_id="949ecdfa-9177-4797-ab77-d8f7ffdfe981" t_id="e1df0eff-efb7-4248-b271-3d4ea5ead79b"> 
+    <content>有人吗？？？</content>  
+    <createTime>2017/06/03 16:01:09</createTime> 
+  </message>  
+  <message id="8dd8c352-5a2b-46c0-9b3a-0549a6f021bd" u_id="afd3285d-27b6-425c-a79d-2f5fc60ece38" t_id="e1df0eff-efb7-4248-b271-3d4ea5ead79b"> 
+    <content>有</content>  
+    <createTime>2017/06/03 16:02:07</createTime> 
+  </message>  
+  <message id="1332120a-8d04-41fc-a04a-7533ca6f677b" u_id="afd3285d-27b6-425c-a79d-2f5fc60ece38" t_id="54f21972-720b-41f6-a8d3-a538c4f0e5e1">
+    <content>二楼</content>
+    <createTime>2017/06/03 16:02:25</createTime>
+  </message>
+</messages>

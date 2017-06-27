@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE users [
+  <!ELEMENT users (user*)>
+  <!ELEMENT user (username,password)>
+  <!ATTLIST user id CDATA #REQUIRED  >  
+  <!ELEMENT username      (#PCDATA)>
+  <!ELEMENT password   (#PCDATA)>
+  
+]>
+<users> 
+  <user id="949ecdfa-9177-4797-ab77-d8f7ffdfe981" > 
+    <username>tom</username>  
+    <password>123</password> 
+  </user>  
+  <user id="afd3285d-27b6-425c-a79d-2f5fc60ece38">
+    <username>AngelOver</username>
+    <password>123</password>
+  </user>
+</users>

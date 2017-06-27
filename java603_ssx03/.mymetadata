@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="java603_ssx03"
+  id="myeclipse.1496498635043"
+  context-root="/java603_ssx03"
+  j2ee-spec="6.0"
+  archive="java603_ssx03.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
